@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mario",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/MarioNSMBUDeluxe.png/220px-MarioNSMBUDeluxe.png"
+    },
+    {
+        "id": 2,
+        "name": "Luigi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/LuigiNSMBW.png/220px-LuigiNSMBW.png"
+    },
+    {
+        "id": 3,
+        "name": "Yoshi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/YoshiMarioParty10.png/220px-YoshiMarioParty10.png"
+    },
+    {
+        "id": 4,
+        "name": "Bowser",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/BowserNSMBUD.png/220px-BowserNSMBUD.png"
+    },
+    {
+        "id": 5,
+        "name": "Peach",
+        "image": "https://vignette.wikia.nocookie.net/mariofanon/images/1/11/294px-PrincessPeach.png/revision/latest?cb=20180404160348"
+    },
+    {
+        "id": 6,
+        "name": "Waluigi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Waluigi.png/180px-Waluigi.png"
+    },
+    {
+        "id": 7,
+        "name": "Toad",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Toad_3D_Land.png/220px-Toad_3D_Land.png"
+    },
+    {
+        "id": 8,
+        "name": "Wario",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Wario.png/250px-Wario.png"
+    },
+    {
+        "id": 9,
+        "name": "Toadette",
+        "image": "https://www.mariowiki.com/images/thumb/b/bf/NewSuperMarioBrosUDeluxe_Toadette.png/1200px-NewSuperMarioBrosUDeluxe_Toadette.png"
+    },
+    {
+        "id": 10,
+        "name": "King Boo",
+        "image": "https://www.mariowiki.com/images/thumb/4/47/Mario_Party_Star_Rush_King_Boo.png/1200px-Mario_Party_Star_Rush_King_Boo.png"
+    },
+    {
+        "id": 11,
+        "name": "Goomba",
+        "image": "https://www.mariowiki.com/images/thumb/9/9c/Goomba_-_MarioPartyStarRush.png/200px-Goomba_-_MarioPartyStarRush.png"
+    },
+    {
+        "id": 12,
+        "name": "Bowser Jr.",
+        "image": "https://www.mariowiki.com/images/thumb/9/9f/Bowserjr_MP9.png/1200px-Bowserjr_MP9.png"
+    }
+]
